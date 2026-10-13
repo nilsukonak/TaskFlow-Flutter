@@ -1,10 +1,13 @@
-# ToDoApp
-
+# # TaskFlow — Flutter Task Management App
 Clean Architecture prensipleriyle geliştirilmiş, Repository Pattern ile Firebase Authentication ve Cloud Firestore entegrasyonu sağlayan mobil görev yönetim uygulaması.
 
 Provider ile reaktif state management ve AutoRoute ile tip güvenli dinamik yönlendirme mimarisi kurgulandı.
 
 Öncelik seviyeleri, kategori yönetimi ve filtreleme mekanizmalarını içeren modüler bir UI tasarımı uygulandı.
+
+Bu proje, daha sonra geliştirdiğim **[FlowState](https://github.com/nilsukonak/FlowState)** uygulamasının öncülüdür. FlowState ile görev yönetimi, kullanıcı deneyimi ve uygulama özellikleri daha kapsamlı bir yapıya taşınmıştır.
+
+
 Uygulama demosu:
 
 ## Demo
