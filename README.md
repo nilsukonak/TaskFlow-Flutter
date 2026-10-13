@@ -102,3 +102,27 @@ lib/
 └── main.dart                   → Uygulamanın giriş noktası
 
 ```
+---
+
+## Geliştirilmiş Versiyon — FlowState
+
+Bu proje, Flutter ile mobil uygulama geliştirme sürecimde oluşturduğum ilk görev yönetimi uygulamasıdır. Edindiğim deneyimlerin ardından, görev yönetimi fikrini daha kapsamlı özellikler, gelişmiş kullanıcı deneyimi ve modüler bir mimariyle yeniden ele alarak **FlowState** uygulamasını geliştirdim.
+
+###  FlowState ile Gelen Yenilikler
+
+- **Gelişmiş Görev Yönetimi:** Görev arama, filtreleme, önceliklendirme ve ilerleme istatistikleri.
+- **Odaklanma Yönetimi:** Focus oturumlarını yönetmeye yönelik ayrı bir uygulama modülü.
+- **Zamanlanmış Bildirimler:** Flutter Local Notifications ve Timezone entegrasyonu ile görev hatırlatıcıları.
+- **Kimlik Doğrulama:** Firebase Authentication ve Google Sign-In entegrasyonu.
+- **Veri Yönetimi:** Cloud Firestore ve Repository Pattern ile katmanlı veri erişimi.
+- **State Management:** Provider ile uygulama durumunun yönetilmesi.
+- **Navigation:** AutoRoute ile yapılandırılmış sayfa yönlendirmeleri.
+- **Kullanıcı Deneyimi:** Açık/koyu tema, görev analizi ve geliştirilmiş arayüz.
+
+### Kullanılan Teknolojiler
+
+Flutter • Dart • Firebase Authentication • Cloud Firestore • Provider • Repository Pattern • AutoRoute • Flutter Local Notifications • Timezone
+
+### 🔗 FlowState Projesini İncele
+
+**[FlowState — Geliştirilmiş Görev Yönetimi Uygulaması](https://github.com/nilsukonak/FlowState)**
