@@ -1,4 +1,4 @@
-# # TaskFlow — Flutter Task Management App
+# TaskFlow — Flutter Task Management App
 Clean Architecture prensipleriyle geliştirilmiş, Repository Pattern ile Firebase Authentication ve Cloud Firestore entegrasyonu sağlayan mobil görev yönetim uygulaması.
 
 Provider ile reaktif state management ve AutoRoute ile tip güvenli dinamik yönlendirme mimarisi kurgulandı.
